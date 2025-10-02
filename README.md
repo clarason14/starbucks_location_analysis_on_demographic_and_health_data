@@ -33,7 +33,10 @@ This project analyzes whether **Starbucks considers demographic and health facto
 **Key Insight**: Starbucks expansion is influenced primarily by **socioeconomic potential** rather than community health outcomes.
 
 ## Visualizations
-- Correlation heatmap of Starbucks density, demographics, and health indicators  
+- Correlation heatmap of Starbucks density, demographics, and health indicators
+
+<img src="analysis/plots/starbucks_correlation_matrix.png" alt="Starbucks Correlation Matrix" width="600"/>
+
 - Scatter plot: Starbucks density vs. median income  
 - Choropleth map: Starbucks store density by ZIP code  
 
