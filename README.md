@@ -35,7 +35,7 @@ This project analyzes whether **Starbucks considers demographic and health facto
 ## Visualizations
 - Correlation heatmap of Starbucks density, demographics, and health indicators
 
-![Starbucks Correlation Matrix](starbucks_correlation_matrix.png)
+![Starbucks Correlation Matrix](starbucks%20correlation%20matrix.png)
 
 - Scatter plot: Starbucks density vs. median income  
 - Choropleth map: Starbucks store density by ZIP code  
