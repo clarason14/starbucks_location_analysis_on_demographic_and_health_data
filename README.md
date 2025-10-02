@@ -43,7 +43,7 @@ This project analyzes whether **Starbucks considers demographic and health facto
 - **GitHub** for version control  
 
 ## Repository Structure
-'''
+```
 ├── data/
 │ ├── raw/ # Original datasets
 │ ├── interim/ # Cleaned datasets
@@ -51,7 +51,7 @@ This project analyzes whether **Starbucks considers demographic and health facto
 ├── analysis/
 │ └── starbucks_analysis.ipynb # Main notebook for analysis
 └── README.md
-'''
+```
 
 
 ## Author
